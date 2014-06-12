@@ -1,6 +1,7 @@
 h3. Nodepad
 
 This is a Node notepad, written for a tutorial series on "DailyJS":http://dailyjs.com.
+and just a Test!
 
 h3. Updates
 
